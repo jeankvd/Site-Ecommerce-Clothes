@@ -1,0 +1,31 @@
+body {
+  background-color: #222;
+}
+
+nav {
+  background-color: transparent;
+}
+
+nav a {
+  color: white!important;
+}
+
+/*Hero*/
+
+.hero {
+  width: 100%;
+  overflow: hidden;
+}
+
+.hero img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+/**/
+.hero-content {
+  margin-top: 35vh;
+  color: white;
+  text-align: center;
+}
